@@ -1,4 +1,4 @@
-Ödevim Hakkında bilmeniz gerekenler
+Ödevim Hakkında bilmeniz gerekenler 
 -----------------------------------
 
 1) Kullanılan datasetin uzantısını .csv olarak değiştirdim ve excel tablosunu tek sütüna indirip birleştirdim.
