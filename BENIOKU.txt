@@ -21,4 +21,4 @@ y_train, y_test = Y[:train_pct_index], Y[train_pct_index:]
 3) Dosyadaki 1 numaralı resim verilerin normalize edilmiş ve çalıştırılmış halidir.
 Dosyadaki 2 numaralı resim verilerin normalize edilmemiş ve çalıştırılmış halidir.
 
-4)Projede KNN algoritması elle yazılmamıştır ( Başaramadım :/ ). Ödevi yapabildiğim kadar ilettmiş oldum size.
+4)Projede KNN algoritması elle yazılmamıştır. Ödevi yapabildiğim kadar pushlamış oldum.
