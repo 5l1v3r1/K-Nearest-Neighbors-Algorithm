@@ -1,11 +1,5 @@
-Sayın Ercan Hocam,
-
 Ödevim Hakkında bilmeniz gerekenler
 -----------------------------------
-
-NOT : Projeyi ne olur ne olmaz diye Githuba da yükledim linkten ulaşabilirsiniz projeye.
-
-Link : https://github.com/berkaycanozcelik/KnnAlgorithm
 
 1) Kullanılan datasetin uzantısını .csv olarak değiştirdim ve excel tablosunu tek sütüna indirip birleştirdim.
 bu yüzden kullandığım veri seti dosya içinde mevcuttur. Dosya yolunu kod içinde değiştirmeyi unutmayınız lütfen.
@@ -28,7 +22,3 @@ y_train, y_test = Y[:train_pct_index], Y[train_pct_index:]
 Dosyadaki 2 numaralı resim verilerin normalize edilmemiş ve çalıştırılmış halidir.
 
 4)Projede KNN algoritması elle yazılmamıştır ( Başaramadım :/ ). Ödevi yapabildiğim kadar ilettmiş oldum size.
-
-5)Kodu Jupyter Notebookda yazdım.
-
-6)Zaman ayırıp okuduğunuz için teşekkür eder saygılarımı iletirim.
